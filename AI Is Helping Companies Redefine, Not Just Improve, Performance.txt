@@ -1,0 +1,141 @@
+Abstract
+
+Schrage et al explain that research on organizations' use of artificial intelligence reveals how they can apply the technology to redefine strategic measurement and KPIs. Businesses that use AI to generate new metrics or refine existing ones enjoy a range of benefits over those using the technology primarily to improve their performance on legacy metrics. Their research already indicates that companies that derive substantial financial benefits from their AI investments are 10 times more likely to change how they measure success compared with companies that realize smaller returns from their AI investments. They see organizations using algorithms to challenge and improve enterprise assumptions about the sources of performance, profitability, and growth. In short, businesses increasingly use AI to redefine, not just augment, performance.
+
+Full Text
+Headnote
+
+Research on organizations' use of artificial intelligence reveals how they can apply the technology to redefine strategic measurement and KPIs.
+
+Performance measurement has been a top management imperative ever since Frederick Winslow Taylor's seminal work "Principles of Scientific Management" revolutionized business processes more than a century ago. Taylor's stopwatch, ruthlessly deployed to monitor and maximize worker productivity, became a controversial symbol of performance analytics. More recently, the purpose of measuring performance has expanded well beyond efficiency and now includes the strategic optimization of a range of business functions and outcomes.
+
+Thanks to radical improvements in artificial intelligence, the purpose and practice of measurement are expanding even further. Executives are working with machines to develop new perspectives on what drives performance and how best to measure it. Much as NASA's J ames Webb Space Telescope has overturned astronomers' understanding of the universe by observing it with unrivaled range and power, AI is overturning organizations' understanding of performance.
+
+Increasingly, organizations combine AI with performance data to generate and refine key performance indicators, both with and without human intervention. Our conversations with leading AI researchers and practitioners strongly suggest that tomorrow's most effective leadership teams will use KPIs not simply to monitor enterprise success but to redefine and drive it.
+
+Avinash Kaushik, chief strategy officer at digital marketing agency Croud, was formerly the senior director of global strategic analytics at Google, where, in Webb-like fashion, machine learning helped his team reimagine the possibilities of performance measurement. He explains that Google used AI to identify new high-performance parameters that greatly improved the technology giant's substantial but underperforming marketing investments on one primary digital channel.
+
+The thinking at the time, Kaushik recalls, was that "lots of people get really good results on a primary digital channel, but not us. And we're spending lots of money. And we have lots of reports and segments and statistics of all kinds. But we have no idea what the hell is wrong with us. We know we're failing; we just don't know why, and we've exhausted all the questions we can ask."
+
+Google's team's wealth of talent, analytic resources, and data access wasn't enough to crack the code. "So, after having analysts and statisticians have a whack at it, we decided, 'You know what? We're going to collect a very smart algorithm, and we're going to feed it as much data as we have,'" Kaushik says. "And we'll just say, 'Tell us what's wrong.'"
+
+Kaushik's team used supervised machine learning techniques - classification trees, specifically - to identify connections and correlations they had missed. "Because we didn't even know what questions to ask, this kind of unsupervised machine learning algorithm was a really good approach," he says. "We let the algorithm find the patterns."
+
+What the algorithm found surprised Kaushik and his team: The KPIs they had thought were most essential to optimize actually weren't. "Which metrics were most influential, the order of their importance, and in which ranges we need to play for individual metrics was a revelation to us," he says. Among these surprising metrics was the significance of available headroom for the brand metric, which was not on the team's consideration list of top influencers.1 A second was the strong impact of audible and visible on complete (AVOC), a measure of the percentage of impressions in which a person viewed and heard a full ad. If the AVOC was below a certain percentage, the marketing campaign was doomed to fail. If the percentage was higher, the campaign had a chance for success.
+
+'Six months after we implemented the algorithm's recommendations, there was a 30-point improvement in performance. That is an insane performance improvement," Kaushik says. "It's because instead of the humans figuring out what questions we should ask of the data, we simply said, 'Hey, why don't you figure out what the trouble is?'"
+
+Google's successful use of AI to rethink performance cannot be explained away as the singular accomplishment of a company with a trillion-dollar market cap and cutting-edge technological capabilities. On the contrary, we've seen similar examples across the industry landscape in domains ranging from professional sports to health care to energy. More and more companies are harvesting new riches from pattern recognition and discerning performance drivers that are computationally invisible to legacy tools and analytics. Our interviews with corporate executives make clear that transforming how organizations measure can fundamentally transform what organizations measure. (See "What Is a KPI? Now and Then.")
+
+Businesses that use AI to generate new metrics or refine existing ones enjoy a range of benefits over those using the technology primarily to improve their performance on legacy metrics. Our research already indicates that companies that derive substantial financial benefits from their AI investments are 10 times more likely to change how they measure success compared with companies that realize smaller returns from their AI investments.2 We see organizations using algorithms to challenge and improve enterprise assumptions about the sources of performance, profitability, and growth. In short, businesses increasingly use AI to redefine, not just augment, performance.
+
+The organizational, operational, and cultural significance of enlisting AI for performance measurement is difficult to overstate. Leaders can now use AI-powered KPIs not only to measure past performance but to serve as organizing principles for aligning the organization toward its strategic goals, improving how the company understands and defines success, and catalyzing growth.
+
+This article identifies three practical and valuable but little-discussed business implications and benefits of using AI both to generate and refine KPIs.
+
+1. Smart KPIs That Learn, Not Just Track
+
+Almost 50 years ago, Goodhart's law declared that when a metric becomes a target, it ceases to be a good metric. But targeting metrics themselves for improvement is not only consistent with Goodhart's law but becomes an essential ingredient for sustained operational success. One CBS executive, for example, asked her data science team to analyze 50 years of customer data to determine whether the company had identified the proper KPIs for evaluating successful television programming. The team used AI to confirm the merits of existing KPIs and then identified additional ones that helped refine and expand the meaning of contemporary success. Combining AI and KPIs improved the leadership team's understanding of its own performance criteria.
+
+In addition to unearthing new KPIs and refining KPI portfolios, AI-powered KPIs can go beyond tracking progress to drive action. Consider churn, one of an organization's most important customer-centric KPIs. C-suites typically track churn as a lagging indicator of customer satisfaction, and they seek to predict and preempt it. Depending on their analytic sophistication, companies might invest in identifying and contacting at-risk customers to induce them to stay. Some organizations have automated the process of sending such customers standardized offers to prevent their departure.
+
+Now picture a company with analytical systems that identify at-risk customers and pinpoint precisely how much effort should be spent to retain them. The organization introduces a churn-reduction algorithm empowered to make retention offers to its most valuable customers. Those offers might include immediate discounts, discounts contingent on renewal, new services, a bundled upsell, or a recommendation engine-like options menu.
+
+The real-world impact of this algorithm: key performance criteria that focus less on tracking and predicting churn than on developing and refining innovative strategies to prevent it. Predicting churn itself matters less than predicting which tactics and offers will most likely, and most cost-effectively, induce customers to stay.
+
+Alternatively, one telecommunications company used AI to move from a system that would only predict the likelihood of churn to one that recommended next best actions for higher ROI. It found that the next best action for some customers was to let them go, based on lifetime value criteria. The new system recognized that not all churn was equal. This approach fundamentally altered how the company both assessed churn and improved performance. In this environment, the churn KPI no longer only measures churn: It fuses prediction with options for preempting churn.
+
+This capability means that establishing KPIs is no longer the sole provenance of human management. AI-driven KPIs shift the emphasis and locus of value from tracking progress on given strategic metrics to learning what the best metrics are. Where legacy KPIs are retrospective, smart KPIs are forward-looking; where legacy KPIs are focused on fixed targets, smart KPIs are adaptive. Indeed, the point is for them to adapt. (See " From Passive Indicators to Active Intelligence.")
+
+2. Governing Measurement: KPIs for KPIs
+
+KPIs measure performance, but what measures the performance of KPIs? As their AI-enabled capacity to learn expands and improves, KPIs become even more essential to leadership. Their performance and impact consequently require rigorous ongoing evaluation. Just as leadership should assess employee performance on a regular basis, they need to routinely assess their KPIs, individually and collectively, to ensure successful enterprise outcomes. Many executives have told us that streamlining their KPI portfolios is a critical but difficult challenge. While achieving a parsimonious set of KPIs can force uncomfortable decisions, it also clarifies strategic priorities.
+
+We are seeing a growing number of companies evaluate whether they are optimizing and extracting maximum value from their KPIs. Increasingly, leaders are allocating resources to test existing KPI assumptions, and they are investing in improving the KPIs themselves. In assessing the effectiveness or performance of their KPIs, they are, in effect, seeking KPIs for their KPIs.
+
+Unlike the periodic governance of legacy KPIs managed by humans alone, the governance of smart KPIs is increasingly being managed by machines and humans together. (See "Governing KPIs: Bringing AI Into the Loop." ) This type of KPI governance is essential to ensuring that KPIs improve over time, both individually and collectively.
+
+Ensuring that KPIs become measurably more valuable is a pressing leadership challenge. What marginal investments in time, money, and talent might dramatically increase a KPI's impact?
+
+Schneider Electric, the France-based energy company, has created a performance management office to improve not only performance against established metrics but also the metrics themselves. As it focuses on digital transformation, Schneider Electric embraces a return-on-KPI sensibility, making a significant financial and nonfinancial investment in learning how to improve its KPIs.
+
+"We want our KPIs to evolve over time because we don't want to drive our business on legacy metrics," says Schneider Electric's chief governance officer and secretary general, Hervé Coureil. For example, Coureil notes that about four years ago, the company established a KPI for a number of assets under management, such as the number of digital connections to customer assets. Over time, this metric was refined into several categories: a metric for learning, advisory, and feedback loops; experience-oriented metrics; optimization-focused metrics; anomaly detection; and performance-driven metrics. AI played an especially strong role in developing anomaly detection measures and metrics.
+
+Creating measurement systems for improving KPIs enables top managers to look beyond siloed performance metrics to deepen their understanding of cross-functional value creation. AI algorithms can analyze relationships among multiple KPIs - and their underlying components - to better balance competing and/or complementary interdependencies.
+
+For instance, a company might use AI to compute the principal components that best connect customer satisfaction with employee empowerment and engagement. Embracing this approach lets executives better anticipate challenges, optimize resource allocation, and adapt strategies to new market dynamics. In essence, effective KPI governance empowers leaders to turn KPIs into sources of competitive advantage.
+
+3. Improved Alignment via Shared Smart KPIs
+
+As the previous section suggests, no KPI is an island. Whether directly or indirectly (or both), enterprise KPIs influence one another. While our research indicates that the majority of KPIs in the majority of organizations surveyed are managed within distinct and disconnected silos, operational realities typically reveal underlying overlaps between business units, processes, and functions.
+
+These overlaps can create conflict: Each business entity will bring different data sets, data flows, and workflows to the key performance process, and siloed functions often have clashing priorities. For instance, finance might seek to control costs, whereas marketing might want to promote upgraded products and customer experience. AI is particularly well positioned not only to uncover overlaps among KPIs but to help resolve the resulting trade-offs and inconsistencies. AI-generated KPIs can lead the way to shared KPIs that drive improved organizational alignment.
+
+In health care, for example, reducing readmissions is both a key outcome indicator and essential to reducing costs. In legacy provider organizations, CFOs manage costs and reimbursement flows, and chief medical officers (CMOs) emphasize the quality care of patients and their release from the hospital. Each role tends to view reducing readmissions from a different perspective with its own distinct, independent metrics. It is now possible to use AI to analyze patient data, identify root causes of readmissions, and recommend targeted interventions. With this information, CFOs and CMOs can share a "patient readmission rate" KPI when identifying the root causes and predicting interventions to simultaneously improve outcomes and reduce costs. This shared KPI promotes alignment across the organization that would not be possible without AI-driven pattern recognition.
+
+We are seeing more organizations use AI to manage their diversified KPI portfolios. Different C-suite executives, for example, are commonly responsible for customer experience and employee experience KPIs. But AI makes patterns of interdependency and conflict between KPIs visible and accessible. Who, then, becomes responsible for optimizing performance across business-critical metrics? Shared KPIs present opportunities for collaborative leadership and oversight. Should the CFO share accountability with the chief marketing officer for customer lifetime value? Or should they assign the sales, customer success, and customer support functions joint responsibility for churn?
+
+Unlike legacy KPIs, smart, shared KPIs enhance organizational alignment by facilitating enterprise data sharing and visibility, as well as cross-functional collaboration. (See "Enhancing Organizational Alignment With Smart KPIs.") This article's critical research insight is that enabling and empowering strategic measurement systems to learn fundamentally alters how organizations understand and invest in future performance. In the future, KPIs will learn from data, one another, and leaders who recognize that strategic leadership without enhanced strategic measurement guarantees underperformance.
+
+Improving performance on KPIs is insufficient for organizational success without improving the KPIs themselves. Doing the latter requires a dedicated effort that requires leadership attention, organizational change, and investments in AI. Optimizing tomorrow's performance demands the best KPIs, not (merely) maximizing performance on today's KPIs.
+
+* The authors would like to thank Gaurav Jha, Lisa Krayer, Allison Ryder, and Barbara Spindel for their contributions to this article.
+Sidebar
+
+WHAT IS A KPI? NOW AND THEN
+
+A key performance indicator is a quantifiable metric that reflects the performance or progress of an organization, team, or individual in achieving specific objectives or outcomes. Legacy organizations use KPIs as benchmarks both to evaluate success and to identify areas for improvement. KPIs have typically focused on measuring performance in specific areas, such as sales growth, customer satisfaction, or operational efficiency. Executives and managers traditionally identify both strategic and operational KPIs and then use basic instrumentation and data-gathering techniques to measure progress on KPI metrics. This legacy approach prioritizes what KPIs measure rather than how KPIs are measured.
+
+That is, KPIs themselves are taken as a given, are established by executive fiat, and are rarely the subject of analysis. Although it's less common to assess whether KPIs (for a function, business unit, or organization, for instance) are the right KPIs, we are seeing more and more companies using AI to perform precisely this kind of analysis. They are using AI to refine existing KPIs, discover new KPIs, and prioritize KPIs in new ways.
+
+Organizations are now performing life-cycle analyses of KPIs and creating governance systems to assess the continued relevance of existing ones. And, as one executive told us, his organization is creating KPIs for its KPIs as part of its efforts to analyze its entire KPI "ecosystem." AI can play, and is playing, a critical role in these analyses by discerning new performance drivers and delivering new metrics and interpretations of success.
+
+We see AI transforming the potential, purpose, and power of KPIs, from benchmarks to something more akin to analytical systems that can track progress, predict trends, and generate valuable insights to help organizations make more measured decisions. Combining KPIs and AI can create analytical systems that assess the metrics themselves, not merely progress on them; these systems can adapt and optimize themselves based on data analysis, patterns, and feedback.
+
+And some companies are going further.
+
+By integrating AI into the process of measuring performance, these businesses are identifying areas of improvement, recommending actions, and even autonomously implementing solutions to enhance performance.
+
+These new perspectives on the role of KPIs infused with AI have enormous implications for corporate approaches to strategic measurement. Viewing KPIs as dynamic systems of analysis offers new methods for measuring and defining performance success. These analytic systems, which we call smart KPIs, can learn, and learn to self-improve, with and without human intervention.
+
+In addition to unearthing new KPIs and refining KPI portfolios, AI-powered KPIs can go beyond tracking progress to drive action.
+
+Creating measurement systems for improving KPIs enables top managers to look beyond siloed performance metrics to deepen their understanding of cross-functional value creation.
+
+The question, What are the best ways to assess the impact of KPIs on organizational outcomes?
+
+is profoundly different from, What are the best ways to use allocated budget to serve existing KPIs?
+
+AUTHORS
+
+Michael Schrage is a research fellow with the MIT Sloan School of Management's Initiative on the Digital Economy. His research, writing, and advisory work focuses on the behavioral economics of digital media, models, and metrics as strategic resources for managing innovation opportunity and risk.
+
+David Kiron is the editorial director, research, of MIT Sloan Management Review and program lead for its Big Ideas research initiatives.
+
+François Candelon is a senior partner and managing director at Boston Consulting Group (BCG) and the global director of the BCG Henderson Institute, where his research focuses on the impact of technologies on business and society. He can be contacted at candelon.francois@bcg.com.
+
+Shervin Khodabandeh is a senior partner and managing director at BCG and the coleader of BCG's AI business in North America. He is a leader in BCG X and has over 20 years of experience driving business impact from AI and digital. He can be contacted at shervin@bcg.com.
+
+Michael Chu is a partner and associate director at BCG and focuses on applying AI and machine learning to business problems in commercial functions, including optimizing pricing, promotions, sales, and marketing. He can be reached at chu.michael@bcg.com.
+
+ACKNOWLEDGMENTS
+
+We thank each of the following individuals, who were interviewed for this article:
+
+Hervé Coureil
+
+chief governance officer and secretary general, Schneider Electric
+
+Avinash Kaushik
+
+chief strategy officer, Croud
+References
+
+REFERENCES
+
+1 According to Kaushik, available headroom is the available space in decibels between an audio system's maximum level. The importance of this metric was a primary insight for his team. As Kaushik remarked, sometimes "you don't even know what you don't know."
+
+2 S. Ransbotham, F. Candelon, D. Kiron, et al., "The Cultural Benefits of Artificial Intelligence in the Enterprise," Nov. 2, 2021, MIT Sloan Management Review.
+Word count: 3154
+
+Copyright Massachusetts Institute of Technology, Cambridge, MA Spring 2023
