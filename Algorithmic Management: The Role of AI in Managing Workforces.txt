@@ -1,0 +1,90 @@
+Abstract
+
+With the help of digital technology, complex managerial tasks, such as the supervision of employees and assessment of job candidates, can now be taken over by machines. While still in its early stages, algorithmic management -- the delegation of managerial functions to algorithms in an organization -- is becoming a key part of AI-driven digital transformation in companies. Algorithmic management promises to make work processes more effective and efficient. For example, algorithms can speed up hiring by filtering through large quantities of applicants at relatively low costs. Algorithmic management systems can also allow companies to understand or monitor employee productivity and performance. However, ethical challenges and potential negative downsides for employees must be considered when implementing algorithmic management. In the case of hiring, AI-enabled tools have faced heavy criticism due to harmful biases that can disfavor various groups of people, resulting in efforts to create guidelines and regulations for ethical AI design. Here, Jarrahi et al offer recommendations for how managers can approach implementation using new skill sets.
+
+Full Text
+Headnote
+
+Successful implementation requires new competencies and ethical considerations.
+
+With the help of digital technology, complex managerial tasks, such as the supervision of employees and assessment of job candidates, can now be taken over by machines. While still in its early stages, algorithmic management - the delegation of managerial functions to algorithms in an organization - is becoming a key part of AI-driven digital transformation in companies.
+
+Algorithmic management promises to make work processes more effective and efficient. For example, algorithms can speed up hiring by filtering through large quantities of applicants at relatively low costs. 1 Algorithmic management systems can also allow companies to understand or monitor employee productivity and performance. 2 However, ethical challenges and potential negative downsides for employees must be considered when implementing algorithmic management. In the case of hiring, AI-enabled tools have faced heavy criticism due to harmful biases that can disfavor various groups of people, resulting in efforts to create guidelines and regulations for ethical AI design.
+
+In this article, we build on our years of research on algorithmic management and focus on how it transforms management practices by automating repetitive tasks and enhancing the role of managers as coordinators and decision makers. However, the introduction of algorithms into management functions has the potential to alter power dynamics within organizations, and ethical challenges must be addressed. Here we offer recommendations for how managers can approach implementation using new skill sets.
+
+Profit From Scale and Efficiency While Improving Workforce Well-Being
+
+Algorithms can enhance the scale and efficiency of management operations. In the gig economy, algorithmic systems coordinate and organize work at an unprecedented scale - think about the number of matching riders and drivers using Uber or Lyft at any one time across the globe. Likewise, standards organizations have already taken advantage of the increased accuracy of algorithmic processing to manage both tasks and workers. UPS equips trucks with sensors that monitor drivers' every move to increase efficiency. Similarly, Amazon heavily relies on algorithms to track workers' productivity and even generate the paperwork for terminating employment if they fail to meet targets.
+
+However, our research suggests that focusing solely on efficiency can lower employee satisfaction and performance over the long term by treating workers like mere programmable "cogs in a machine." 3 Evidence from AI frontiers shows us that utilitarian algorithmic processes may maximize certain objectives at the expense of minimizing others. Much research has pointed out how efficiencycentric algorithmic management can significantly undermine worker well-being and satisfaction, such as by triggering employees to continue working to the point of exhaustion. 4
+
+Algorithmic management that prioritizes surveillance and control resorted to adopting similar systems to monitor remote workforce productivity, especially coming out of the pandemic with a rise in virtual work. Surveillance is ethically questionable and often results in negative pushback from workers. 5 For example, Apple call center employees have expressed fear about surveillance cameras in their home. Likewise, algorithmic systems in warehouses, which use different sensors and criteria for measuring worker outputs, automatically enforce efficiency of work, but in some cases, they have reportedly led to worker demoralization or even physical injuries. In many current implementations of algorithmic management, workers have little recourse to influence and escape undesirable outcomes.
+
+We call for a more stakeholder-centered perspective in the adoption of algorithmic management that balances streamlining processes with meeting the needs and interests of different stakeholder groups, such as managers, workers, and shareholders. 6 Extreme surveillance, control, and pressure from algorithmic management are not only detrimental for workers' well-being - they can also negatively affect companies through tarnished reputations and employee churn.
+
+In addition to safeguarding against management overreach, algorithmic management systems should be designed to benefit workers, such as by automatically alarming them when situations are likely to be dangerous. Our perspective helps strike a balance between streamlined processes that fuel efficiency and profit, and workers' well-being.
+
+Create a Symbiotic Division of Labor Between Human and Algorithmic Managers
+
+While some companies envision a future in which algorithms can effectively make decisions on their own with minimal human input, the reality is that AI has limitations in fully automating managerial roles that involve complex cognitive tasks and intuitive decision-making. 7 Organizations must make sure that they create a symbiotic division of labor between human and algorithmic managers. Our research suggests that algorithmic systems can better handle decision spaces with a narrow scope (such as high volume but repetitive coordination tasks), while human managers will continue to excel in dealing with loosely defined decision spaces (such as tacit and strategic decisionmaking with "known unknowns").
+
+Here, the context around implementation is highly relevant. Uber and Lyft have nearly automated all functions of traditional managers (some tasks such as conflict or complaint resolution are still mediated through humans). This is unlikely to be the case in most standards organizations, due to the complexity and diversity of work tasks. In traditional organizations, we anticipate a technology-mediated partnership between humans and AI in performing management functions. Think about corporate training programs. AI can deliver personalized web-based training to an employee and measure productivity gains effectively. However, for other tasks, particularly those that are more creative and tactical, such as brainstorming and strategic thinking, or those that require social skills such as empathy, a human instructor may be necessary.
+
+The figure below illustrates a prototype of this symbiotic relationship at different levels of management. At lower levels, AI systems are likely to provide affordances for better task coordination (disaggregation, distribution, aggregation, and evaluation of tasks), while human managers are more well-positioned to take on more supervisory and interactive roles (such as providing flexibility for workers to execute tasks). At the upper management levels, AI systems can scan and offer information about the internal and external environments of the organization while managers bring in a strategic and holistic perspective to decision-making. For example, AI systems can assist organizations in integrating, monitoring, and analyzing hundreds of data points about customer behavior in real time, while human managers can articulate their implications for evolving demands. 8
+
+Organizations must recognize and foster the unique capabilities of both AI and human managers and strive to capture ways they can work together in partnership, something Accenture technology leaders Paul Daugherty and H. James Wilson call "the missing middle." 9 Companies such as Microsoft have used automatically generated "productivity scores" that provide managers with aggregated information about how often their employees send emails and attend video meetings. This information is valuable only once set into context by a human manager who can make assessments about the quality of work (while the scores solely represent a quantity-focused measure) or whether job roles are similar enough to be compared based on their respective scores.
+
+Successful human-AI synergy is not a given. Business processes will usually need to be redesigned when organizations wish to implement algorithmic tools that are a good fit to the management task that they want to fully or partially automate.
+
+Avoid Algorithmic Bias by Promoting Fairness, Transparency, and Accountability
+
+Companies deciding to engage with algorithmic management must acknowledge that algorithms are not neutral or technocratic decision makers. They can introduce and amplify biases based on race or gender, which can lead to unfairness and injustice. Algorithmic bias has been identified in various organizational functions, including human resource management, and particularly in the screening of job applicants' resumes, where algorithms are often trained on historical data that reflects biased human hiring decisions.
+
+Algorithmic bias is also evident in the criminal justice system, where judges have used predictive systems to determine the likelihood of recidivism for defendants. 10 These systems have faced criticism for predicting higher likelihood of recidivism for Black defendants, possibly due to biases in the data used to train the algorithms. Confirmation feedback loops in predictive policing can also lead to repeated police presence in certain areas, resulting in unfair scrutiny of specific individuals.
+
+Algorithmic bias or unfairness can be difficult to detect in algorithmic management systems because the inner workings of the algorithms used in these systems are often complex and opaque to users. 11 This lack of transparency, also known as algorithmic opacity, makes it difficult to identify any biases or inequalities encoded in the system. 12
+
+To address this problem, we encourage organizations to consider using technical solutions such as Explainable AI (XAI), which can provide explanations for specific input/ output predictions. When integrating algorithms in managerial processes, organizations also need to consider how algorithmic decision-making and explainability challenges align with regulatory frameworks such as the European Union's General Data Protection Regulation.
+
+While laws and policies governing algorithmic management, including protections against algorithmic bias, are still nascent, organizations may need to adopt self-regulatory practices. Algorithmic auditing can be a helpful approach to systematically examine the outcomes of algorithmic decision-making and potential discriminatory consequences. Third-party algorithmic audits can identify biases in algorithms, as well as assess other negative impacts such as ecological harm, safety risks, privacy violations, and a lack of transparency, explainability, and accountability. Algorithmic audits may become legally required in various contexts, such as New York's recent law regulating AI-based hiring practices.
+
+We encourage companies to take responsibility and reflect on the ethics of their current practices. An ethical approach that emphasizes access to information about which algorithms are used for managing processes, how they are used, and how they impact different groups, including workers and customers, is urgently needed. 13 Constant internal inquiries help organizations decide how algorithms are organizing work-related processes. These again require transparency efforts aimed at disclosing enough information on algorithmic management for various stakeholders to both understand algorithmic power as well as hold human and algorithmic managers accountable.
+
+Finally, we urge organizations to think beyond the capabilities of algorithms (what they could realistically achieve) and carefully decide what managerial duties should and should not be delegated to algorithms. These "should" questions raise knotty moral issues around labor conditions, ethics, and organizational accountability. Conducting a stakeholder analysis can help organizations to transparently consider the potential implications of algorithmic management systems on stakeholders and address issues such as decision-making bias, accountability, and the rights and dignity of stakeholders.
+
+Algorithmic management holds many promises for organizations and can transform the roles and duties of managers. Successfully employing it requires a new set of algorithmic competencies and attitudes to handle risks. Future managers need skills to effectively engage with, make sense of, deploy, and even collaborate with algorithms in their workflows. Management in the future of organizations requires organizing a complex network of people, data, and automated systems. Organizations should investigate how they can profit from algorithmic management and how they can nurture algorithmic competencies to build a symbiosis between human and machine capabilities.
+
+About the Authors
+
+Mohammad Hossein Jarrahi is an associate professor at the UNC School of Information and Library Science. Mareike Möhlmann is assistant professor in the Information and Process Management department at Bentley University. Min Kyung Lee is an assistant professor in the School of Information at the University of Texas at Austin.
+References
+
+References
+
+1. U. Leicht-Deobald, T. Busch, C. Schank, et al., "The Challenges of Algorithm-Based HR Decision-Making for Personal Integrity," Journal of Business Ethics 160, no. 2 (December 2019): 377-392.
+
+2. M. Möhlmann, L. Zalmanson, O. Henfridsson, et al., "Algorithmic Management of Work on Online Labor Platforms: When Matching Meets Control," MIS Quarterly 45, no. 4 (December 2020): 1999-2022.
+
+3. M.K. Lee, "Understanding Perception of Algorithmic Decisions: Fairness, Trust, and Emotion in Response to Algorithmic Management," Big Data & Society 5, no. 1 (January-June 2018).
+
+4. M.H. Jarrahi, G. Newlands, M.K. Lee, et al. "Algorithmic Management in a Work Context," Big Data & Society 8, no. 2 (July 2021).
+
+5. M. Möhlmann and O. Henfridsson, "What People Hate About Being Managed by Algorithms, According to a Study of Uber Drivers," Harvard Business Review, Aug. 30, 2019, https://hbr.org.
+
+6. A. Zhang, A. Boltz, C.W. Wang, et al., "Algorithmic Management Reimagined for Workers and by Workers: Centering Worker Well-Being in Gig Work," CHI Conference on Human Factors in Computing Systems, April 29-May 5. 2022: 1-20.
+
+7. M.H. Jarrahi, "Artificial Intelligence and the Future of Work: Human-AI Symbiosis in Organizational Decision-Making," Business Horizons 61, no. 4 (July-August 2018): 577-586.
+
+8. M.H. Jarrahi, S. Kenyon, A. Brown, et al., "Artificial Intelligence: A Strategy to Harness Its Power Through Organizational Learning," Journal of Business Strategy, forthcoming.
+
+9. P.R. Daugherty and H. James Wilson, "Human + Machine: Reimagining Work in the Age of AI" (Cambridge, Massachusetts: Harvard Business Press, 2018).
+
+10. R. Courtland, "Bias Detectives: The Researchers Striving to Make Algorithms Fair," Nature, June 20, 2018, www.nature.com.
+
+11. M. Möhlmann, C. Salge, and M. Marabelli, "Algorithm Sensemaking: How Platform Workers Make Sense of Algorithmic Management, Journal 13. Möhlmann, What People Hate About Being Managed. of the Association for Information Systems 24, no. 1 (May 2022).
+
+12.K. Martin, "Ethical Implications and Accountability of Algorithms," Journal of Business Ethics 160 (December 2019): 835-850.
+Word count: 2140
+
+Copyright Massachusetts Institute of Technology, Cambridge, MA Spring 2023
