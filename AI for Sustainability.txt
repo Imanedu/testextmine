@@ -1,0 +1,743 @@
+AI for Sustainability
+A Dangerous Fantasy or
+an Unfulfilled Potential
+Daniela Inclezan and Luis I. Prádanos
+9.1 Introduction
+During the last few years, a proliferation of scientific reports confirms the
+obvious: the constant global expansion of a fossil fuel-based techno-industrial
+economic metabolism is incompatible with life on a finite planet. The more
+this economic system globalizes, the faster the living systems of the planet
+collapse. In a recent article in Nature, Elhacham et al found that human-
+made things now overweight all biomass on Earth (2020). In other words,
+global economic activity is transforming life into infrastructure and there-
+fore destroying the web of life on which human communities depend. The
+2018 WWF Living Planet Report revealed “that population sizes of wildlife
+decreased by 60% globally between 1970 and 2014.” Similar disturbing
+conclusions were published in 2019 by the IPBES in their Global Assessment
+Report on Biodiversity and Ecosystem Services. This process of “biological anni-
+hilation” (Ceballos, Ehrlich, and Dirzo, 2017) seems to be the result of the
+globalization of an extractivist and growth-oriented economic culture that is
+clashing with the biophysical limits of Earth (Herrington, 2020). The logic
+of this dominant economic culture is deeply encoded into our techno-social
+systems and has lately been automated and amplified by our machine learning
+technologies.
+Our civilization is in a serious ecological overshoot. Machine-learning-
+based AI systems, which were passively adopted en masse in recent years and
+rapidly deployed by both private and public institutions without time for
+scrutiny (Truby, 2020, p. 948), have contributed to a significant acceleration
+of existing trends toward increasing ecological depletion, energy consump-
+tion, and global inequality. These ongoing AI implementations within the
+context of a profit-maximizing and growth-oriented economic culture are
+making our most pressing interrelated issues—ecological breakdown, energy
+decline, and social corrosion—much worse.
+Sustainable Development Goals (SDGs) were incorporated into UN prior-
+ities in 2015 with a target date of 2030, but these goals are not free from the bias
+towards the unrealistic idea that constant economic development is possible
+on a finite planet. SDG 8 for example strives to achieve “sustainable economic
+growth,” while SDG 9 advocates for “sustainable industrialization.”1 SDGs
+have been criticized for reflecting a top-down approach that ignores local
+realities and different ways of thinking. They mirror the belief that the envi-
+ronment is just a resource to be used and managed (see SDG 14 to “conserve
+and use the oceans, seas, and marine resources for sustainable development”),
+which contradicts indigenous worldviews that attribute agency not only to
+humans but to nonhumans as well.
+An extensive empirical review of AI contributions to SDGs, followed by a
+consensus-based expert elicitation process, reported by Vinuesa et al (2020)
+indicates that AI can act as both an enabler and an inhibitor of SDG targets.
+The authors find that AI can support the accomplishment of 134 of the 169
+targets (79%) associated with the 17 SDGs, while it may simultaneously neg-
+atively impact progress towards 59 targets (35%). When SDGs are divided
+into the three areas of Society, Economy, and Environment, AI is determined
+to have the greatest enabling effect on Environment goals (93%) and the
+highest inhibitor effect on Society goals (38%). Jon Truby (2020) considers
+examples from the finance world and similarly concludes that unchecked AI
+advances that may promote SDGs may be manipulated and misused in a way
+that damages progress towards them. Henrik Skaug Sætra (2021) critiques
+the methodology used by Vinuesa et al (2020) and argues that an analysis of
+the impact of AI on the accomplishment of SDGs must distinguish between
+direct and indirect effects, and also consider impacts as multiple levels: micro,
+meso, and macro. With such an analysis, the positive impacts of AI are much
+smaller (and less generalizable) than its possible negative effects. A common
+thread in these studies is the push for an ethical, transparent, accountable, and
+regulated advancement of AI.
+We can conclude that, so far, the well-intentioned SDGs have not materi-
+alized into a more sustainable and just world. Rather, we are witnessing the
+de facto expansion of neoliberal economic globalization that confuses pros-
+perity with an unchecked economic growth, which is biophysically incom-
+patible with a finite planet. Within this globally dominant growth-oriented
+economic framework, technological development in general and the rapid
+evolution of AI applications, in particular, cannot properly address ecological
+overshoot and global inequality. A number of critical technology scholars
+find that machine learning implementations, which include the subclass of
+deep learning algorithms, are rather automating, accelerating, and exacerbat-
+ing the existing troublesome trends that are making human societies more
+extinction-driven, extractivist, undemocratic, and unequal. Most impor-
+tantly, AI technologies, as they are currently applied by corporations and
+governing agencies, are not only reinforcing and accelerating the unsustain-
+able inertias of the dominant economic cultural paradigm but also making it
+more and more difficult to sustain alternative ways of perceiving and being in
+the world that are not inherently unsustainable, extractivist, and exploitative
+(Crawford, 2021, pp. 11–12).
+9.2 Part I. Smart vs. Wise: Why Automating
+Unsustainable and Unfair Inertias may be Unwise
+Making a destructive and unfair techno-social system faster and smarter may
+not be wise. It would be wiser to first embed the system within regener-
+ative and equalitarian principles and, only then, sophisticate its functions
+and equip it with AI algorithms. Under the current historical conjunction,
+the social and ecological costs of wide implementations of machine learning
+technologies in everyday life are significant.
+In terms of ecological costs of AI, we could enumerate the increasing
+energy demands to run data centers (Bridle, 2018, p. 63), train algorithms
+(Hao, 2019; Strubell, Ganesh, and McCallum, 2019; Bender et al, 2021),
+and produce and recharge smart devices of all kinds; the drastic and his-
+torically unprecedented acceleration of planetary extractivism facilitated by
+recent developments in AI (Arboleda, 2020), and the massive proliferation
+of mismanaged e-waste (more on the ecological downsides of AI in the next
+section). These costs are hidden by metaphors that create a false pretense of
+immateriality for our modern technology. We currently work in the intan-
+gible “cloud” (Srinivasan, 2017, p. 2), play games in virtual reality, and cele-
+brate decreases in our carbon footprint that are due to working from home,
+but we tend to ignore the materiality of the devices we depend on for our
+remote work and entertainment, and the ever-increasing physical infrastruc-
+ture that supports all of this.
+The social costs of AI are somehow more theorized than its ecological
+costs. However, one cannot ignore the profound relationship between the
+two. Often the poorer and more marginalized populations pay the high-
+est environmental price of technology, while the more privileged have the
+means to push forward and disproportionally benefit from a globally imposed
+extractivist, consumerist, and unsustainable way of life. As scholars work-
+ing on social and political ecology have concluded, powerful actors mobilize
+the same “modern” hierarchical distinctions and classifications that perpet-
+uate inequality, to also justify the unsustainable exploitation of nonhumans
+(Crawford, 2021, pp. 123–149). In other words, under the current economic
+and political incentives, technology is used by powerful actors to extract and
+accumulate wealth while simultaneously externalizing the social and ecolog-
+ical costs to others. Thus, as long as AI continues accelerating inequality, it
+will be an amplifier of unsustainability.
+Substantial work still remains to be done to expose the true social costs of
+AI and undo the misleading public discourses disseminated by well-funded
+corporate think tanks and marketing strategies that emphasize and exagger-
+ate the unfulfilled social promises of these technologies while grossly ignor-
+ing the factual negative consequences of its implementations. For instance,
+Cathy O’Neil describes in her 2016 book—Weapons of Math Destruction. How
+Big Data Increase Inequality and Threatens Democracy—the way in which the
+broad implementation of opaque machine processing technologies ends up
+punishing the poor and making the rich richer (O’Neil, 2016, p. 3). These
+technologies are highly biased and “often punish individuals that happen to
+be the exception” (O’Neil, 2016, p. 6), as these automated systems often per-
+petuate “many poisonous assumptions [that] are camouflaged by math and go
+largely untested and unquestioned” (O’Neil, 2016, p. 7). Virginia Eubanks
+arrives to similar conclusions in Automating Inequality. How High-tech Tools
+Profile, Police, and Punish the Poor (2017). Eubanks found that “Automated
+decision-making shatters the social safety net, criminalizes the poor, inten-
+sifies discrimination, and compromises democracy” (Eubanks, 2017, p. 12).
+The most vulnerable people are in fact “targets rather than beneficiaries of
+these systems” of data-based technologies when they are applied to public
+services (Eubanks, 2017, p. 9).
+Both studies confirm that AI is automating and amplifying exist-
+ing inequalities and power asymmetries. One of the reasons, as Sasha
+Costanza-Chock explains in Design Justice. Community-Led Practices to Build
+the Worlds We Need (2020), may be that “machine learning is intersectionally
+biased” ( Costanza-Chock, 2020, p. 19) as most algorithmic decision sup-
+port systems are designed and trained with selective data that reproduce the
+existing systemic oppression and societal prejudices. “Most design processes
+today therefore are structured in ways that make it impossible to see, engage
+with, account for, or attempt to remedy the unequal distribution of benefits
+and burdens that they reproduce” (Costanza-Chock, 2020, p. 19). Although
+unintentionally, machine learning processes happen to be unfair by design as
+existing asymmetrical power relations and biases “are encoded in and repro-
+duced through the design of sociotechnical systems” (Costanza-Chock, 2020,
+p. 4). Fortunately, there is a “rapidly growing community of researchers…
+focused on challenging the ways that inequality is reproduced through the
+design of AI and algorithmic decision support systems” (Costanza-Chock,
+2020, p. 9). We applaud these efforts and invite AI scholars to contribute to
+this much needed research to expose and correct the effects of algorithmic
+injustices.
+Many other critical technology scholars and research journalists also agree
+that “Technology is in fact a key driver of inequality across many sectors”
+(Bridle, 2018, p. 113), which is true for AI specifically as well (Vinuesa et al.,
+2020; Sætra, 2021). This is bad news, considering that studies in epidemi-
+ology found out that growing inequality is socially damaging, undermines
+democracy, and makes more difficult to effectively address environmental
+issues (Wilkinson and Pickett, 2010). A number of recent studies suggest
+that the combination of widening inequality with increasing social polari-
+zation and political radicalization that is currently threatening democracies
+worldwide is exacerbated by machine learning technologies. This “algorith-
+mic radicalisation” (Bridle, 2018, p. 212) is exemplified by YouTube rec-
+ommendation algorithms that work by identifying what viewers like and
+increasing its “discoverability” (Bridle, 2018, p. 217). This means that each
+subsequent recommendation introduces a more radical content in relation to
+the previous one. Zeynep Tufekci goes as far as calling YouTube “the Great
+Radicalizer” due to the fact that its recommender algorithms favor extremist
+and inflammatory content (2018). According to Tufekci, this troublesome
+escalation of extremist content likely has to do “with the nexus of artificial
+intelligence and Google’s business model” that consists of “selling our atten-
+tion to companies that will pay for it”. As Bridle points out, “It is not about
+intention, but about a kind of violence inherent in the combination of digital
+systems and capitalist incentives” (Bridle, 2018, p. 230). Similarly, Facebook
+algorithms reward extremist content, facilitate radicalization of unstable
+people, and amplify misinformation campaigns because its business model
+is based on addiction and surveillance (Peirano, 2022, p. 55). In short, Big
+Tech companies do not design machine learning techniques to enhance the
+common good but to generate profit by amplifying what is popular and max-
+imizing engagement. The unintended consequence is that “Entire cultural
+industries become feedback loops for an increasingly dominant narrative of
+fear and violence” (Bridle, 2018, p. 131) and, as a result, AI risks empowering
+dangerous political and corporate actors who deny or minimize the envi-
+ronmental crisis, disregard human rights, and even criminalize and target
+environmental activists (Dauvergne, 2020, pp. 17, 146, 196). This diverts our
+attention away from humanity’s most existential and pressing socioecolog-
+ical problems, which prevents us from effectively dealing with these issues
+(Dauvergne, 2020, p. 9).
+One of the main businesses of Big Tech corporations is to store massive
+databases and process them with machine learning algorithms to sell it to
+third parties. The more information they store and process the more power-
+ful they become (Peirano, 2019, p. 119; Crawford, 2021, pp. 89–121). As these
+large firms dominate the market, they use their power to evade regulation
+and undermine innovation outside their sphere of influence by monopoliz-
+ing the knowledge they gain in their opaque processes (Bessen, 2022). This
+increasing datafication and automation of everyday life does not make labor
+conditions better for most workers, as it was supposed to, but rather it is doing
+the opposite (Crawford, 2021, pp. 53–87), as it results in more concentration
+of power, increasing global inequality, and volatile labor markets (Kaplan,
+2016). In fact, “Automation does not translate in leisure time”, but in less
+labor bargaining power for the working class (Greenfield, 2017, p. 184). In
+other words, it seems that “Exploitation is encoded into the systems we are
+building” (Bridle, 2018, p. 229). These technologies are even colonizing our
+sleeping time and disrupting our resting patterns in many disturbing and
+unsustainable ways whose unintended consequences are impossible to foresee
+(Crary, 2013).
+9.3 Part II. AI Material and Energy Intensities:
+The Inherent Unsustainability of High-tech Systems
+The previous section suggests that the current implementation of AI tech-
+nologies may be socially unsustainable if not significantly corrected. In this
+section, we explore how it may also be ecologically unviable. One of the
+most comprehensive books dealing with AI and sustainability is arguably
+Peter Dauvergne’s AI in the Wild. Sustainability in the Age of Artificial Intelligence
+(2020). It provides a critical political economy lens that recognizes AI “not
+as benign or neutral but as a reflection of capitalism and an instrument of
+power” (Dauvergne, 2020, p. 7) due to high investments in its development
+from military and commercial interests (Dauvergne, 2020, p. 11). Dauvergne
+recognizes that AI is also a “valuable tool for fine-tuning environmental
+learning and management” (Dauvergne, 2020, p. 12). However, given how
+sociotechnical systems operate within our existing economic and political
+incentives, “the environmental applications of artificial intelligence have
+limited capacity to alter the political and economic forces underlying the
+escalating global sustainability crisis and tend to reflect the same anthropo-
+centric and technocratic biases common to state management” (Dauvergne,
+2020, p. 14).
+Although most AI technologies are developed for commercial and mili-
+tary purposes, there are some machine learning projects focusing explicitly
+on sustainability issues (e.g., Global Fishing Watch, Rainforest Connec-
+tion). However, as Dauvergne observes, “the primary energy underlying the
+upsurge in the use of AI for environmental research, conservation, and man-
+agement is coming not from governments or transnational corporations but
+from a diverse array of nonprofits, startups, universities, and environmental
+advocacy organization” (Dauvergne, 2020, p. 68). Solutions coming from
+academia and nonprofit organizations suffer from a lack of connectivity, a
+smaller scope, and limitations in the number of contributors and resources.
+In academia in particular, there are more projects focusing on applications
+related to social justice than on sustainability issues (although the two prob-
+lems are interdependent, as shown in the previous section). Most of them deal
+only with symptoms of environmental decline rather than its root causes.
+The two top-tier AI conferences—the conference of the Association for
+the Advancement of Artificial Intelligence (AAAI) and the International
+Joint Conferences on Artificial Intelligence (IJCAI)—have special tracks for
+research on socio-environmental issues, but the percentage of accepted papers
+that have a sustainability focus is relatively small. AAAI’s “AI for Social
+Impact” track promotes research that addresses “pressing societal challenges,
+e.g., health, food, environment, education, governance, among others.”2 Out
+of the 50 papers accepted in this track in 2022,3 roughly 24% have an envi-
+ronmental focus. IJCAI’s track on “AI for Good” publishes research related to
+the UN’s Sustainable Development Goals.4 Only 21% of the 33 papers, pro-
+ject proposals, and demos accepted in 2022 targeted environmental goals.5
+Most importantly, a majority of sustainability-focused projects are designed
+to manage more efficiently the highly entropic metabolism of growth-
+oriented, techno-industrial societies and to mitigate its increasingly disruptive
+environmental effects. Almost none of these projects are designed to reduce
+overall material and energy throughput in the global economy. Microsoft’s
+AI for Earth initiative, for instance, strives to build a Planetary Computer
+that “enables global-scale environmental monitoring by combining petabytes
+of data and spatial analysis tools”6 by using “the power of the cloud.”7 This
+celebratory discourse fails to acknowledge the materiality and high envi-
+ronmental costs of storing and processing data while praising the results of
+the “digital revolution.” According to Ramesh Srinivasan, the dominant
+technological culture suffers from a “recency-bias” (Srinivasan, 2017, p. 4),
+where new AI solutions are seen as the panacea for sustainability problems, in
+disfavor of history and context, including existing indigenous solutions that
+benefit from a long tradition of use, address root causes, and reflect systemic
+thinking. In contrast, the main goal of mainstream AI projects is to improve
+management practices rather than to promote and facilitate a transition to a
+socioeconomic metabolism decoupled from the obsession with growth that
+could be sustained in the long term by our finite and already overstressed
+planetary ecosystems.
+This dominant techno-managerial approach to environmental issues
+strives to make an inherently unsustainable system more efficient rather than
+to transform it. As such, most AI technologies are currently intensifying
+and accelerating ongoing unsustainable forces. This means that basic needs
+of societies are getting more hyper-dependent on interconnected complex
+techno-industrial systems that are increasingly more difficult to sustain eco-
+logically, energetically, economically, and geopolitically. This is especially
+disturbing when both the functionality of our food systems and our cities
+are getting increasingly dependent on technologies that are materially and
+energy intensive and will be biophysically unviable in the context of global
+energy decline, geopolitical instability, and ecological overshoot.
+Radically transforming the global industrial food system and the domi-
+nant urban model are “the world’s greatest sustainability needs” (Dauvergne,
+2020, p. 15). The agroindustry is currently the main driver of biodiversity
+loss, topsoil depletion, and water pollution on a global scale. Modern urban
+processes are energy hyper-intensive systems that require massive continuous
+inputs of fossil fuels, materials, water, and food, and produce unmanageable
+quantities of waste and pollution. Urban and agroindustrial processes are two
+sides of the same interdependent linear extractivist metabolism that is rapidly
+destroying the web of life at a planetary scale (Brenner and Katsikis, 2020).
+Most AI projects targeting agricultural and urban issues are in fact intensify-
+ing and accelerating, rather than deescalating and transforming, the unsus-
+tainable and highly entropic urban-agro-industrial metabolism (Fernández
+Durán, 2010). Tech corporations are “empowering the agrifood industry”
+(Dauvergne, 2020, pp. 15–16) and promoting the development of smart
+cities—making these unsustainable high-tech models the default—rather
+than contesting the biophysical impossibility of universalizing these extrac-
+tive and energy-devouring ways of producing food and organizing human
+societies.
+The industrial food system is a threat in itself (Peirano, 2022, pp. 104–106)
+because it is unsustainable and extractivist by design—the more it is used the
+faster all the things that are needed to produce food are depleted (topsoil,
+water, agricultural biodiversity, available nutrients, traditional knowledge)—
+and so is the urban model that prioritizes consumerism and individual vehi-
+cles while segregating spaces by functions. Under this techno-managerial
+approach, “technologies are the protagonists and people are points on the
+map that are trapped in optimization processes designed to extract data”
+(Peirano, 2022, p. 139). “The smart city ideology is the one embraced by
+logistic corporations such as Amazon and Uber” (Peirano, 2022, p. 139). It is
+always a failure when implemented and it ultimately consumes more energy
+than what it saves (Peirano, 2022, pp. 140–144; for a critique of smart cities
+see Inclezan and Prádanos, 2017; Greenfield, 2013; Mattern, 2021).
+Smart agriculture and smart city projects are mostly intended to make
+inherently unsustainable systems more efficient, rather than questioning
+and contesting their social desirability and environmental viability. High-
+tech “smart” projects absorb a disproportionate amount of public funds as
+corporate publicity claims that these projects provide the solution to com-
+plex social and ecological issues. This prevents society from supporting and
+developing “non-smart” readily available solutions that empower communi-
+ties rather than big corporations, are less risky and less energy-intensive, are
+based on systems thinking and the understanding of the interdependency of
+agro-urban processes, and function by regenerating rather than by depleting
+the ecological systems in which they are integrated. Regenerative agriculture,
+agroecology, indigenous food systems, and permaculture, for instance, offer
+tested techniques and design processes able to produce healthy and highly
+nutritious food, sequester carbon, regenerate the soil, clean and retain water,
+support biodiversity, and empower local communities. Similarly, Transition
+Town’s urban models as well as permaculture sites are designed for walkabil-
+ity and human scale, are integrated into their ecological and agrarian biore-
+gions, favor public and multifunctional spaces, and promote locally managed
+clean energy sources (see https://transitionnetwork.org). These alternatives
+to the unsustainable high-tech agroindustry and high-tech urbanism strive
+to meet the needs of local communities while promoting social cohesion and
+environmental regeneration (see Inclezan and Prádanos, 2017). The ques-
+tion remains, can AI be repurposed so it can support these alternative, holis-
+tic, and transformative agro-urban models that are challenging the inherent
+unsustainability of our dominant modern techno-industrial designs, or is the
+field too enmeshed and invested in the dominant economic paradigm that it
+cannot operate beyond its extractivist mandates? How the field confronts and
+responds to this question will be key to understanding if AI could ever become
+a tool for conviviality and sustainability or will continue being an unintended
+driver of inequality, extractivism, radicalization, energy intensification, and
+ecological depletion.
+AI is highly implicated in climate change, not only because the rapidly
+increasing global computing infrastructure has an expanding energy foot-
+print but also because the tech industry is crucial in sustaining fossil fuel
+markets (Dobbe and Whittaker, 2019). AI has immense and ever-growing,
+but often ignored, material entanglements and energy intensities that could
+not be maintained by the post-carbon and post-extractive civilization that we
+need to create to avert the worse consequences of climate breakdown. In fact,
+critical energy studies found that humanity is fully immersed in a progres-
+sive and irreversible energy decline, as the energy return on energy invested
+in renewable technologies is way too low to replace fossil fuels and sustain
+the energy requirements of a techno-industrial civilization (Prieto and Hall,
+2013; Fernández Durán and Reyes, 2018; Turiel, 2020; Seibert and Rees,
+2021). In other words, it is unclear where the massive energy requirements of
+the AI global infrastructure are going to come from in a context of climate
+change and energy decline.
+The amount of materials, water, and energy required to produce only one
+computer is enormous (even without considering its life cycle analysis). The
+illusion of digital dematerialization has been largely debunked by ecologi-
+cal economics. Similarly, MIT researchers Emma Strubell, Ananya Ganesh,
+and Andrew McCallum (2019), raised the alarm about the environmental
+cost of training neural networks for research in natural language process-
+ing. They estimate the required energy to be comparable to that necessary
+for a trans-American flight, while Karen Hao (2019) compared the carbon
+emissions of one single language model to those emitted by five cars in their
+lifetimes. In addition to the high carbon footprint and energy usage, Bender
+et al (2021) highlighted the role of these neural network models in furthering
+environmental racism, as the environmental cost for training English lan-
+guage models is “impacting the world’s marginalized communities first,” for
+instance communities in the Maldives or Sudan, “when similar large-scale
+models aren’t being produced for Dhivehi or Sudanese Arabic” (Bender et al.,
+2021, p. 612).
+Moreover, the implementation of more and faster technology always
+means more material extraction and more energy usage, not less (Alexander
+and Rutherford, 2020) and is therefore more unsustainable from an ecolog-
+ical perspective (Bridle, 2018, p. 64). In the context of a consumerist and
+growth-oriented economic culture, even improvements in eco-efficiency
+result in an overall increase in energy and material extraction, because the
+gains achieved by these technologies are reinvested to trigger further eco-
+nomic growth (Alexander and Rutherford, 2020). This is known as the
+rebound effect. Techno-optimism is often an ecology and energy blind per-
+spective. The power that we attribute to machines is directly proportional
+to our ecological and energy illiteracy (Vindel, 2020, pp. 306–307). If we
+consider energy decline and ecological overshoot into the equation when
+we discuss high-tech agriculture and high-tech urbanism, for instance, the
+senselessness of smart agriculture and smart cities becomes clear.
+Kate Crawford’s recent book, Atlas of AI (2021), offers an “expanded view
+of artificial intelligence as an extractive industry” (Crawford, 2021, p. 15) made
+out of “physical infrastructures that are reshaping the Earth, while simulta-
+neously shifting how the world is seen and understood” (Crawford, 2021,
+p. 19). The tech industry is currently fueling a planetary extractivism of ter-
+raforming proportions (Crawford, 2021, pp. 23–51). The vast environmental
+implications of this resource-intensive industry are obviously unsustainable
+not only because their extractivist practices exacerbate our current ecological
+overshoot but also because the energy and minerals that make global compu-
+tation possible are becoming increasingly scarce. Crawford’s book maps the
+materialities of AI and the “topographies of extraction that connects them”
+(Crawford, 2021, p. 49). As Crawford compellingly points out, AI is not
+autonomous at all, it depends on rapidly increasing levels of violent exploita-
+tion and extraction of human and nonhuman labor and health that are shad-
+owed by abstract and immaterial metaphors (e.g., the cloud) as well as the
+dematerialization fantasies promoted by the tech industry.
+Once high-tech systems are implemented in a school, building, farm, city,
+or administrative process, a new level of high maintenance requirements
+is also introduced. The maintenance of high-tech systems is usually much
+more cumbersome, expensive and labor and energy intensive than what their
+corporate advocates recognize (Broussard, 2019, p. 193; Mattern, 2021, pp.
+106–139). The issues of maintenance and repair tend to be overlooked—
+if not completely ignored—by “smart” technology promoters. The initial
+implementation of many of these systems in public administrative, educa-
+tional, or medical services is often accompanied by celebratory discourses and
+promises that almost never materialize. The consequences of these failures
+leave behind an increased social dysfunctionality and a large transfer of public
+funds to private hands.
+If everything mentioned in this section is considered together, we could
+entertain the possibility that a sustainable post-carbon society will likely be a
+post-digital society or, at the very least, a society that uses computing technol-
+ogies in less superfluous, less risky, more democratic, and much more selective
+ways. Perhaps an “open localization” strategy (Velegrakis and Gaitanou, 2019)
+would achieve a balance between sustainability and high technology. This
+means re-localizing as much as feasible the ways communities provide for their
+basic needs (food, water, energy) while keeping all communities culturally
+open and interconnected by knowledge-sharing digital technologies. This is to
+be seen. By now, as AI intensifies existing trends, global consumerism, energy
+consumption, and extractivism are increasing. This triggers a massive and soci-
+oecologically deleterious planetary wave of green grabbing enclosures, accu-
+mulation by dispossession, displacement, and forced depeasanization (Federici,
+2019, pp. 188–197; Arboleda, 2020). In other words, AI within the existing
+sociohistorical context is a key driver and accelerator of unsustainable patterns
+and it is in fact “automating the global crisis” (Dauvergne, 2020, p. 137) in an
+irreflexive way as we will discuss in the next section.
+9.4 Part III. The Unsustainable Fallacy of
+Technological Neutrality
+During the last decades, we experienced a troublesome simultaneous
+depolitization of environmental and technological issues, as critical public
+discussions around these topics disappeared from civic discourses and were
+displaced by a techno-managerial rhetoric that pretends that constant increases
+in efficiency and speed are the solution to all problems, and therefore tech-
+nological acceleration and economic growth should be the main priority of
+societies. Support for these ideas comes from the myth of techno-inevitability
+that “naturalizes a belief that technologies should dictate our material and
+sentient experiences of being” and “transforms a set of political and philo-
+sophical agendas into words such as «natural,» «scientific,» and «humane»”
+(Srinivasan, 2017, p. 9). This manufactured consensus on the political neu-
+trality of technological acceleration confuses irreflexive and unsustainable
+profit-oriented technological development with social progress and innova-
+tion (even in the context of widening global inequality and ecological over-
+shoot). We showed in previous sections how this confusion has lethal social
+and ecological consequences. Data journalist Meredith Broussard calls this
+flawed assumption technochauvinism: “the belief that tech is always the solu-
+tion” (2019, pp. 7–8). This assumption is maintained even in cases where the
+simplest (low-tech) solution seems to be the most effective (Broussard, 2019,
+p. 10). Technochauvinism, as we explained previously, is mostly blind to the
+energy requirements and environmental consequences associated with high-
+tech processes.
+Machine learning developments make this technological depolitization
+even more problematic. The first AI systems were designed to do whatever
+we knew how to, but more efficiently and faster. More recent machine learn-
+ing and deep learning technologies end up identifying and accelerating pat-
+terns that we do not even understand anymore (Peirano, 2019, p. 139). As
+decisions are automated in an opaque way, there is no room for political
+discussions or public debates about what we want to perpetuate and what
+we want to change as societies. Decisions are therefore automated without
+the possibility of ethical and political consideration and contestation. This
+makes “smart” societies irreflexive by default. But irreflexivity does not
+entail political neutrality, for politics are already encoded in the design of
+algorithms—especially given the fact that our automated systems reproduce
+past stereotypes and biases and therefore perpetuate “the historic prejudices
+deeply encoded in our data sets” (Bridle, 2018, p. 144). These discriminatory
+automated systems become deeply ingrained and entangled in the function-
+ality of our institutions and societies due to the fact that AI “is an accelerator
+of all other technologies” (Dauvergne, 2020, pp. 9–10).
+The irreflexive conditioning of automated systems has been noticed by a
+number of critical technology scholars (Greenfield, 2017, pp. 251–252; Bridle,
+2018; Broussard, 2019; Vineusa, 2020; Truby, 2020; Sætra, 2021) and occurs
+due to the fact that “The combination of opacity and complexity renders
+much of the computational process illegible; and because computation itself
+is perceived to be politically and emotionally neutral” (Bridle, 2018, p. 40).
+The “automation bias” encoded in computational processes entails a default
+externalization of “both the decision process and the responsibility onto
+the machine” (Bridle, 2018, p. 43). An automated system that learns from
+selective data can never solve root problems, because it never interrogates
+the past from which the data was extracted and only reacts and responds to
+immediate symptoms in a way that aggravates the problems and makes them
+more difficult to manage in the future. Modern energy-intensive technology
+makes possible externalizing the social and ecological costs of our consum-
+erist cultures (this function is irreflexively unfair by definition as we do not
+see the socioecological damage we inflict) as it hides the ecologically une-
+qual exchange at a global scale (Hornborg, 2022). As Silvia Federici (2019)
+reminds us, paraphrasing German sociologist Otto Ullrich, “only modern
+technology’s capacity to transfer its costs over considerable times and spaces
+and our consequent inability to see the suffering caused by our daily usage of
+technological devices allow the myth that technology generates prosperity to
+persist” (Federici, 2019, p. 190).
+Perhaps, rather than accelerating our technological development, we
+should put more time and energy in trying to understand the social and eco-
+logical implications of our dominant techno-social systems. In other words,
+it is time to consider alternative cultural imaginaries that help us rethink our
+relationship with our technologies in completely different ways. We need to
+be more thoughtful about which kind of technological innovation is desira-
+ble and which one is detrimental. To insert reflection into our techno-social
+systems we need to focus much more on social and cultural innovation rather
+than blindly focusing on improving technological capabilities without inter-
+rogating their unintended consequences. This means substituting the neu-
+trality of technology paradigm for a different approach based on the political
+ecology of technology.
+The dominant accelerationist thought (Bridle, 2018, p. 132), implicit in
+the neutrality paradigm, assumes that “our only possible act is to accelerate
+the existing order” (Bridle, 2018, p. 134). Algorithms reproduce existing
+bias because they are trained in the societal dominant values and they prop-
+agate and amplify past mistakes (Peirano, 2019, p. 141). “Computation pro-
+jects a future that is like the past” (Bridle, 2018, p. 44), excluding possible
+futures that do not fit the model, assuming that nothing will radically change
+( Bridle, 2018, pp. 44, 81). The problem we face today is that we need a pro-
+found and quick change of course to avert the worse consequences of ecolog-
+ical overshoot and climate breakdown. If nothing changes substantially, the
+conditions that make our planet humanly inhabitable will be seriously and
+irreversibly compromised. It seems that our current techno-social systems
+prevent us from changing direction in the precise historical conjunction in
+which not doing so is unaffordable. This double bind is due to the fact that
+our technologies significantly condition the way we can respond to pressing
+problems and how we envision possible solutions. If our most powerful tools
+were developed in the context of a growth-oriented economic culture that
+gave rise to a deeply unsustainable and unfair sociotechnical system, how can
+these tools help us find a way out of the socioecological crisis that the afore-
+mentioned economic culture manufactured?
+The technology neutrality paradigm is extremely dangerous for the health
+of our planet’s ecosystems as well as our democracies because “New tech-
+nologies do not merely augment our abilities, but actively shape and direct
+them” (Bridle, 2018, p. 2). Apparently, many people are looking at com-
+puter screens, reading fake news highlighted by biased algorithms, and liking
+staged friends’ photos while our neighbors get digitally radicalized and 70%
+of our agricultural biodiversity disappears. Political questions should not be
+avoided if we want to solve this conundrum: who is excluded in the techno-
+logical designs that affect our daily routines and who decides what kind of
+data is relevant to train the algorithms that will inform our political opin-
+ions and absorb our energies and attentions? Often times the same groups
+that were excluded from the benefits of (neo)colonial exploitation are also
+excluded from the design of our technology and become the collateral dam-
+age of its algorithmic injustice. There is no such thing as raw data (Greenfield,
+2017, p. 210; Crawford, 2021, p. 221) and with machine learning technolo-
+gies “certain perspectives on reality are reinforced, and others undermined”
+(Greenfield, 2017, p. 212). The perspectives that are reinforced are usually the
+ones embraced by powerful industrial and military interests and are deeply
+deleterious for the health of our minds, societies, and ecologies (Crawford,
+2021, pp. 181–209). Alternative perspectives that embrace regenerative and
+non-extractive logics tend to be undermined. These perspectives are usually
+not perceived (or, if they are, it is to stigmatize them) by our technologically
+entangled institutional and theoretical radars. They remain outside of the
+official menu of possible solutions and are excluded from significant funding
+opportunities.
+Our society’s path dependency, “which is the tendency of a dynamic sys-
+tem to evolve in ways that are determined by decisions made in its past”
+( Greenfield, 2017, p. 232), is exacerbated and automated by machine learn-
+ing technologies in a historical conjunction in which our survival as a spe-
+cies requires from us nothing less than radically and urgently changing paths.
+A good example is how dominant discourses around highly complex and
+extremely risky geoengineering proposals assume that we can solve our eco-
+logical problems by intensifying the techno-managerial, extractive, anthro-
+pocentric, and hubristic logic that caused them (Peirano, 2022, p. 112). This
+is the maximum expression of an irreflexive and addictive path-dependent
+society that cannot do anything other than keep accelerating in the precise
+moment in which it should be using the emergency break. Once again, the
+technology neutrality paradigm traps us into an automated deadly rat race that
+leaves no room for political and ethical considerations. Under this dominant
+cultural imaginary, our only possibility is to keep running toward our demise.
+The fantasy of technological neutrality excuses societies from the messy
+business of engaging in politics and public debate regarding how to regulate,
+design, develop, and implement AI technologies. Corporations—and their
+unfair algorithms—are happy to make the decisions for us. This passive and
+unconscious delegation means that we give up our democratic responsibil-
+ities and privileges of discussing and deciding collectively what we value as
+a society, how we distribute technological benefits and risks, responsibili-
+ties and vulnerabilities, and what kind of behaviors enhance the common
+good and need to be incentivized and encoded into our techno-social sys-
+tems versus which ones are socially and ecologically detrimental and need
+to be discouraged and deactivated. It is important to remember that “Every
+unchallenged assertion of the neutral goodness of technology […] sustains
+and nourishes uneven power relationships” (Bridle, 2018, pp. 245–247) that
+are rapidly destroying the planetary web of life (Patel and Moore, 2017).
+Challenging the neutrality paradigm and escaping the tyranny of efficiency
+entails “learning to question what motivates the design of our sensemaking
+tools” (Greenfield, 2017, p. 239).
+Since their inception, modern technologies were informed by an extractiv-
+ist and (neo)colonial cultural paradigm in which the role of “modern” human
+societies was considered to appropriate and exploit all planetary life (as well as
+the life of all humans that happened to be registered as “ non-modern” by this
+classification system) in the name of progress. Smart technologies are there-
+fore designed to extract energy, labor, and data (Peirano, 2022, pp. 27–29).
+We obviously need to contest this dominant extractive imaginary if we are to
+create convivial and regenerative technologies, but our sociopolitical infra-
+structures are more difficult to change than our technical ones, because they
+are made out of ideologies and narratives that are ingrained in our brains
+(Peirano, 2022, pp. 65–66). Our dominant cultural imaginaries have mate-
+rialized in a global ecological overshoot and therefore some of the habits and
+beliefs associated with this cultural paradigm cannot be sustained for much
+longer. Under current biophysical and social realities, our dominant beliefs
+become toxic attachments that, quite literally, can kill us. Today’s techno-
+optimism (or technochauvisnism) is a sort of “cruel optimism” ( Berlant,
+2011) that is inflicting massive damage to our democracies and ecosystems.
+It is time for envisioning different stories to live by that are more compatible
+with our finite planet (Stibbe, 2015).
+9.5 Part IV. Confronting the Hard Question: Can AI
+Become a Convivial and Regenerative Tool?
+AI technologies, as every sociotechnical system that influences the way we
+think and the way we do things, are never neutral, value-free tools. The
+“colonization of everyday life by information processing” (Greenfield, 2017,
+p. 32) has unknown but deep implications for “our psyches, our societies,
+or our ways of organizing the world” (Greenfield, 2017, p. 20) as well as for
+how our economic metabolism reorganizes planetary ecologies in ways that
+could compromise our survival as a species (Patel and Moore, 2017). Given
+the unsustainable current inertia exacerbated by AI, should we advocate for
+not developing certain machine learning capabilities? If so, which ones, why,
+and how could we encourage broad audiences outside of academic circles
+to engage in this debate? As Costanza-Chock (2020) points out, “there are
+many cases where a design justice analysis asks us not to make systems more
+inclusive, but to refuse to design them at all” (Costanza-Chock, 2020, p. 19).
+If this is the case, “should sustainability advocates perhaps fight against fur-
+ther development of AI?” (Dauvergne, 2020, p. 11).
+This is largely a rhetorical question as not engaging with the already exist-
+ing AI technologies may not be an option—no matter how dangerous they
+may currently be—because it would mean to renounce to effective tools
+for cooperation at our disposal while being vulnerable to the effects of their
+manipulation by corporate and authoritarian actors (Peirano, 2022, p. 47).
+However, letting powerful corporations monopolize the innovation and
+implementation of AI technologies is not an option either. We envision reim-
+agining these tools to make them not just smarter and more efficient, but also
+wiser and more equalitarian. We also advocate for checks and boundaries for
+AI technologies, established in a more participatory and transparent way.
+It should be clear by now that “AI is never going to produce a sustainability
+revolution within the contemporary global order” (Dauvergne, 2022, p. 8).
+So far, “these allegedly disruptive technologies leave existing modes of domi-
+nation mostly intact, [and therefore we should be] asking if they can ever truly
+be turned to liberatory ends” (Greenfield, 2017, p. 8). Once again, the politics
+and ethics of technology are unavoidable. For AI to serve the common good
+and the regeneration of depleted ecosystems, radically different economic and
+political cultures as well as diverse leadership paradigms need to be activated.
+Tellingly, in the process of writing this chapter we noticed that, in the highly
+male-dominated field of AI, a significant number of the most critical and
+socioecologically sensitive interventions were made by women and gender
+non-conforming scholars. Diversifying the field is obviously crucial if it is
+ever going to serve the common good. This is a necessary but insufficient
+first step. Overcoming the hubristic, extractivist, and exploitative mindset
+ingrained in our unsustainable dominant economic culture will take more
+than diversifying leadership in AI.
+As Gregory Bateson brilliantly put it, “The creature that wins against its
+environment destroys itself” (Bateson, 1972, p. 501). Smart technologies are
+yet another modern industrial tool designed to control, manage, exploit, and
+ultimately, win against our environment. The extractivist and hubristic vision
+that guided its development is at odds with the maintenance of human and
+ecological health. We need new visions and stories to live by that are more
+attuned to human and ecological vulnerability and interdependence and pri-
+oritize socioecological reciprocity and synergy, whole systems health, and
+regenerative socionatural relations (Stibbe, 2015). We have to stop fighting
+a supposedly external nature and start working with it if we do not want to
+destroy ourselves. We need to learn from ecosystems, where the real intel-
+ligence of our planet resides, not from poorly designed human institutions
+and machines that perpetuate historical prejudices and unsustainable patterns
+(Walh, 2016; Escobar, 2018; Fry, 2018). Permaculture, biomimesis, and sys-
+tems thinking should guide not only our design processes but also inform our
+ethical, legal, economic, and political philosophies (Capra and Luisi, 2014).
+If we challenge the technochauvinist dominant imaginary, the field of AI
+could perhaps play a key role in enhancing regenerative design principles and
+practices. The feasibility for this radical re-direction of the field is to be seen,
+but changing some of the technological imaginaries of successful male Silicon
+Valley individuals and venture capitalists’ space colonizers for humbler and
+more socioecologically desirable models of success may be a good starting
+point. In the words of environmental educator David Orr (2004):
+“The planet does not need more successful people. But it does desperately
+need more peacemakers, healers, restorers, storytellers, and lovers of every
+kind. It needs people who live well in their places. It needs people of moral
+courage willing to join the fight to make the world habitable and humane.
+And these qualities have little to do with success as our culture has defined
+it” (Orr, 2004, p. 12)
+The extractivist and (neo)colonial vision that has dominated technological
+thinking in general and AI development in particular needs to be displaced
+by a radically different cultural and technological paradigm (Crawford, 2021,
+pp. 229–237). We call for a transition to a regenerative-oriented AI par-
+adigm. Guided by a postgrowth cultural imaginary (Prádanos, 2018), the
+field could engage in an algorithmic re-design process led by bottom-up
+heterogeneous and diverse thinkers, practitioners, and communities that are
+well-versed in whole systems thinking, critical energy studies, and political
+ecology of technology. AI developments could then be publicly discussed
+and collectively approved. AI implementations could be debated and decided
+by the affected stakeholders and communities and every project could be
+designed to ensure algorithmic accountability and transparency, empower
+local communities, heal the soil, promote biodiversity, and contribute to the
+common good. Successful projects could be widely shared for the collective
+intelligence to be enhanced.
+A few examples of convivial and regenerative projects that could be tackled
+by a regenerative-oriented AI paradigm are the following: developing tech-
+nological applications that could be participatory and collectively managed,
+improved, shared, and easily repurposed to serve the differentiated needs
+of diverse local communities and bioregions; engaging in projects that help
+decentralize and locally manage energy and food systems in a cooperative
+and regenerative way; redesigning the existing habit-making technologies so
+that rather than radicalizing people and promoting compulsive consumerism,
+they make users more ecologically conscious and less energy blind, etc.
+We also advocate for opening the space for other voices and views on sus-
+tainability that diverge from Western ways of thinking. Srinivasan points out
+in his book Whose Global Village? Rethinking How Technology Shapes Our World
+(2017) that “existing approaches toward managing and databasing knowledge
+significantly contrast with local customs and traditions, particularly those
+practiced by indigenous peoples engaging in their own environment” (Srini-
+vasan, 2017, p. 9). In some forms of indigenous thinking, there is an intrinsic
+relationship between biodiversity, culture, and language. As David Turn-
+bull (2009) indicates, “biodiversity does not exist in isolation, biodiversity
+is inseparably linked to cultural diversity, to indigenous knowledge”. Con-
+versely, Wesley Y. Leonard concludes that language revitalization efforts can-
+not happen without regenerating the ecological context in which a language
+emerged: “language reclamation entails a resurgence of physical, spiritual,
+and relational contexts that support language learning” (Leonard, 2021, p.
+150). We believe that researchers in the field of AI should engage, with an
+open mind, in language reclamation and ecological regeneration efforts initi-
+ated by indigenous communities. However, current methods for classification
+and collection based on Western hierarchical systems and ontologies are not
+compatible with indigenous ways of perceiving the world ( Srinivasan, 2017,
+pp. 130–132). Thus, such scholarly work will require designing and develop-
+ing new methods and tools in the field to support indigenous thinking. We
+view this as an exciting opportunity for AI researchers to use their creativity
+and ingenuity to imagine wiser, fairer, and more ecologically-sound types of
+technology.
+9.6 Concluding Remarks
+Should AI scholars advocate for teaching the political ecology of technol-
+ogy—insisting that AI implications are not merely technical issues—not only
+in Computer Science programs but also in all educational settings? Probably
+so, for without a broadly promoted and nourished technological and eco-
+logical literacy, public opinion about AI and sustainability is nothing but an
+acritical celebration of the marketing greenwashing fantasies disseminated
+by tech corporations and other interest groups. Building an informed public
+and civic discourse around the potentialities and dangers of AI for transi-
+tioning from extractivist and exploitative techno-social systems to regen-
+erative and fair ones is probably the most challenging and urgent task—for
+our field, as well as for the health of human and nonhuman communities
+everywhere—moving forward. The political ecology of technology can no
+longer be ignored by AI scholars, educators, and practitioners. As this chapter
+suggests, the social and ecological costs of avoiding the politics of technology
+are becoming increasingly unsustainable.
