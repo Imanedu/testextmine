@@ -150,7 +150,9 @@ workers and citizens, and a scramble to automate work, even when this is
 no more than so-so automation—meaning that it has only small
 productivity benefits. Not coincidentally, automation and large-scale data
 collection enrich those who control digital technologies.
+
 From the Field of AI Dreams
+
 People are right to be excited about advances in digital technologies. New
 machine capabilities can massively expand the things we do and can
 transform many aspects of our lives for the better. And there have also
@@ -299,7 +301,9 @@ that is biased against workers and is destroying some jobs. Its most major
 likely impact is to further lower wages for many people, not create a
 completely workless future. The problem is that although AI fails in most
 of what it promises, it still manages to reduce the demand for workers.
+
 The Imitation Fallacy
+
 Why, then, all this emphasis on machine intelligence? What we should
 care about is whether machines and algorithms are useful to us. For
 example, according to most definitions, the global positioning system
@@ -339,14 +343,7 @@ During the war, Turing joined the top-secret Bletchley Park research
 facility, where mathematicians and other experts worked to understand
 encrypted German radio messages. He devised a clever algorithm—and
 designed a machine—to speed up the breaking of enemy ciphers. This
-then
-helped
-British
-intelligence
-to
-quickly
-decipher
-encrypted
+then helped British intelligence to quickly decipher encrypted
 communications that the Germans had presumed to be unbreakable.
 After Bletchley, Turing took the next step in his prewar work on
 computation. In 1947 he declared to a meeting of the London
@@ -377,7 +374,9 @@ with any attempt to localise it.” Despite this reservation, the modern field
 of AI followed in Turing’s footsteps and focused on artificial intelligence,
 defined as machines acting autonomously, reaching human parity, and
 subsequently outperforming humans.
+
 Boom and Mostly Bust
+
 Fascination with machine intelligence often leads to exaggeration. The
 eighteenth-century French innovator Jacques de Vaucanson would have
 had a well-deserved place in the history of technology for his many
@@ -457,16 +456,7 @@ high-resolution graphics in video games, which proved to be a powerful
 tool for data crunching. There have also been major advances in data
 storage, reducing the cost of storing and accessing massive data sets, and
 improvements in the ability to perform large amounts of computation
-distributed
-across
-many
-devices,
-aided
-by
-rapid
-advances
-in
-microprocessors and cloud computing.
+distributed across many devices, aided by rapid advances in microprocessors and cloud computing.
 Equally important has been progress in machine learning, especially
 “deep learning,” by using multilayer statistical models, such as neural
 networks. In traditional statistical analysis a researcher typically starts
@@ -546,7 +536,9 @@ comes to be viewed as tolerable. This approach further justifies reaching
 human parity, rather than complementing humans, as the criterion for
 progress and comfortably fits with the emphasis of corporations on cutting
 labor costs.
+
 The Underappreciated Human
+
 Even with displacement and massive data collection, productivity growth
 from new technologies can sometimes increase demand for workers and
 boost their earnings. But benefits for workers appear only when new
@@ -702,7 +694,9 @@ experiment emphasized, driving in busy cities requires a tremendous
 amount of situational intelligence to adapt to changing circumstances, and
 even more social intelligence to respond to cues from other drivers and
 pedestrians.
+
 General AI Illusion
+
 The apogee of the current AI approach inspired by Turing’s ideas is the
 quest for general, human-level intelligence.
 Despite tremendous advances such as GPT-3 and recommendation
@@ -822,7 +816,9 @@ automation, and some of the AI adoption may be because of hype, as the
 former AI scientist Alberto Romero, whom we quoted earlier, noted: “The
 marketing power of AI is such that many companies use it without
 knowing why. Everyone wanted to get on the AI bandwagon.”
+
 The Modern Panopticon
+
 Another popular use of modern AI illustrates how enthusiasm for
 autonomous technology, together with massive data collection, has forged
 a very specific direction for digital technologies and how it has again
@@ -909,13 +905,7 @@ Countervailing powers were already absent, especially in the service
 industry, and goodwill and norms of respect for worker autonomy had
 long subsided. The remaining barrier, technology, has now been overcome
 with AI and massive data collection, paving the way to “flexible
-scheduling.”
-Many
-customer-facing
-industries
-have
-abandoned
-predictable
+scheduling.” Many customer-facing industries have abandoned predictable
 schedules, such as 8 a.m.‒4 p.m. work hours, adopting instead a
 combination of “zero-hour contracts” and real-time schedule changes.
 Zero-hour contracts mean that the company rescinds the commitment that
@@ -956,7 +946,9 @@ But is there another way than using digital technologies in the service
 of ceaseless automation and worker monitoring? The answer is yes. When
 digital technologies are steered toward helping and complementing
 humans, the results can be, and have been, much better.
+
 A Road Not Taken
+
 When interpreting both recent and distant history, there is often a
 deterministic fallacy: what happened had to happen. Often, this is not
 accurate. There are many possible paths along which history could have
@@ -1149,13 +1141,8 @@ can aggregate masses of information from others and present relevant
 aspects to users to aid in their decision making.
 The fourth category, based on the use of digital technologies to create
 new platforms and markets, may turn out to be the most important
-application
-of
-the
-Wiener-Licklider-Engelbart
-vision.
-Economic
-productivity is inseparable from cooperation and trading. Bringing
+application of the Wiener-Licklider-Engelbart vision.
+Economic productivity is inseparable from cooperation and trading. Bringing
 together people with different skills and endowments has always been a
 major aspect of economic dynamism and can be powerfully expanded by
 digital technologies.
@@ -1247,7 +1234,9 @@ biases innovation toward finding ways of taking tasks away from workers
 and allocating them to AI programs. This problem is, of course, amplified
 by financial incentives coming from large organizations intent on cost
 cutting by using algorithms.
+
 Mother of All Inappropriate Technologies
+
 It is not only workers and citizens in the industrialized world who will pay
 the price for the AI illusion.
 Despite economic growth in many poorer nations over the last five
@@ -1363,6 +1352,7 @@ will remain unused if the future of technology moves in the pathways that
 the AI illusion dictates.
 
 Rebirth of the Two-Tiered Society
+
 The Industrial Revolution started in eighteenth-century Britain, where
 most of the population had little political or social power. Predictably, the
 direction of progress and productivity growth in such a two-tiered society
